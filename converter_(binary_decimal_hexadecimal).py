@@ -1,7 +1,6 @@
 import os, time, platform
 
 
-
 def main():
     
     print("user on", platform.system(), platform.release()) 
